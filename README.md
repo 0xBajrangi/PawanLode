@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center" style="width:300px;margin:auto;">I'm Pawan Lode, Full Stack Web Developer currently working as an instructional associate at Masai School and learning web3 and solidity .
+### <div align="center" style="width:300px;margin:auto; color:pink">I'm Pawan Lode, Full Stack Web Developer currently working as an instructional associate at Masai School and learning web3 and solidity .
 </div>  
   
 
