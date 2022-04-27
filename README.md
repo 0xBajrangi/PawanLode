@@ -91,7 +91,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pawanlode&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+ <br/>
+<p align="center">
+<a href="https://github.com/pawanlode"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pawanlode&theme=dracula" />
+</span></a> </p>
+
+ <br/> 
 
 <br/>  
 
