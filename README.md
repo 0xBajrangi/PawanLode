@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://media-exp2.licdn.com/dms/image/C4D16AQFYxLoGjngj-A/profile-displaybackgroundimage-shrink_350_1400/0/1641811091572?e=1660780800&v=beta&t=XTJuPqK7aqNRYoQ1rtzHzLZjg-yWSAsdb_NE2soLaQk" align="center" style="width: 100% ;height:250px;" />
+<img src="https://images.unsplash.com/photo-1504805572947-34fad45aed93?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlua2VkaW4lMjBjb3ZlcnxlbnwwfHwwfHw%3D&w=1000&q=80" align="center" style="width: 100% ;height:300px;" />
 </div>  
   
 
-### <div align="center" style="width:300px;margin:auto; color:pink">I'm Pawan Lode, Full Stack Web Developer currently working as an instructional associate at Masai School and learning web3 and solidity .
+### <div align="center" style="width:300px;margin:auto; color:pink">I'm Pawan Lode, Full Stack Web Developer currently working as an SDE-1 at actyv.ai,and also worked as an  instructional associate at Masai School and learning web3 and solidity .
 </div>  
   
 
